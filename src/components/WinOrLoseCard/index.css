@@ -1,0 +1,32 @@
+/* Write your code here. */
+.result-card {
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 30px;
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.result-text {
+  text-align: center;
+}
+
+.score-text {
+  font-size: 28px;
+  color: #6a59ff;
+  font-weight: bold;
+}
+
+.play-again-btn {
+  background-color: #ffce27;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+}
+
+.result-img {
+  width: 200px;
+}

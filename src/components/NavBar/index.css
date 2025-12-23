@@ -1,0 +1,24 @@
+/* Write your code here. */
+.nav-bar {
+  background-color: #6a59ff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 30px;
+  color: #ffffff;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+  margin-right: 10px;
+}
+
+.score-container {
+  display: flex;
+  gap: 20px;
+}
